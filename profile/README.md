@@ -2,6 +2,34 @@
 
 [Jomhoor](https://jomhoor.org) is a digital democracy platform enabling secure identity verification and voting for Iranians, powered by NFC document scanning and zero-knowledge proofs.
 
+---
+
+## Live Platforms
+
+### [Jomhoor.org](https://jomhoor.org) — Campaign & Information Hub
+
+[![Jomhoor.org](https://Jomhoor.org/images/thumbnail-fa-a.png)](https://jomhoor.org)
+
+Bilingual (Persian/English) landing page explaining the platform's five structural gaps, the INID SDK, sponsorship model, and ecosystem partners.
+
+---
+
+### [Civic Compass](https://compass.jomhoor.org) — Map Your Political Identity
+
+[![Civic Compass](https://compass.jomhoor.org/opengraph-image?c374982651b8fc0)](https://compass.jomhoor.org)
+
+Eight policy dimensions. One unique shape. Move beyond left-right — discover where you truly stand.
+
+---
+
+### [Taraaz تراز](https://taraaz.jomhoor.org) — Deliberation & Collective Decision-Making
+
+[![Taraaz تراز](https://taraaz.jomhoor.org/og-image.png)](https://taraaz.jomhoor.org)
+
+A space where citizens come together for dialogue and collective decision-making. Built on [Agora](https://github.com/zkorum/agora).
+
+---
+
 ## Repositories
 
 | Repository | Description |
