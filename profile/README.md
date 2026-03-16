@@ -11,3 +11,4 @@
 | [Civic-Compass](https://github.com/jomhoor/Civic-Compass) | A Next.js frontend application for the Civic Compass feature — a political compass tool that helps users understand and explore political positions. |
 | [Civic-compass-backend](https://github.com/jomhoor/Civic-compass-backend) | NestJS backend service powering the Civic Compass feature, providing APIs for the frontend application. |
 | [Jomhoor.org](https://github.com/jomhoor/Jomhoor.org) | Source code for the [jomhoor.org](https://jomhoor.org) website — a multilingual (Persian/English) static site featuring information about the platform, a political compass, and deliberation tools. |
+| [Taraaz](https://github.com/jomhoor/Taraaz) | A deliberation and balance tool (ترازو) for the Jomhoor platform, helping users weigh and compare different political positions and policy options. |
